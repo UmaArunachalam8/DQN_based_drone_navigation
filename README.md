@@ -33,7 +33,7 @@ To execute any code, make sure the mode of execution is Multirotor in Settings.j
 To implement this technique follow the steps mentioned below :
 1. Data Exploration and preparation
 
-Play with the simulator to collect training data, the corresponding pitch, yaw, and roll values, along with other state parameters such as velocity in the x, y, z directions should be saved along with the camera data.
+Play with the simulator to collect training data, the corresponding pitch, yaw, and roll values, along with other state parameters such as velocity in the x, y, z directions should be saved along with the input from forward facing cam of the drone.
 
 Create two empty folders called models and cooked_data in the same working directory
 
