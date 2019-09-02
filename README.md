@@ -9,7 +9,7 @@ LANDSCAPE MOUNTAIN ENVIRONMENT
 
 Our entire project is tested in the simulated environment called landscape mountains, which is one of the very few open source - free environments compatible with AirSim. We have simplified the process of cross compiling with linux and created a readily available easy to use plug-in for this environment
 
-1. Copy the LandscapeMountains 4.18 - 2 folder into your required destination.
+1. Ping me for the plug in ( It's big, and I dont have an accesible link)
 2. To use this plugin, open the LandscapeMountains.uproject in Unreal editor
 
 DEPENDENCIES
